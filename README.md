@@ -5,6 +5,7 @@ Web developer 🖥️
 -----------------
 
 I've been learning to code these past few months and had a massive improvement in my skills. My passion lies in frontend development but I'm also looking at expanding my reach to backend or maybe game development one day. 😊
+My personal website: https://nexyusnex.github.io/personal-portfolio-v1/ .
 
 * 🌍  I'm based in Serbia 🇷🇸
 * 🧠  I'm learning everything Javascript, Webpack and React.
